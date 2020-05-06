@@ -7,7 +7,8 @@ module.exports = {
         },
     },
     plugins: [
-        "@vuepress/blog",
+        ["@vuepress/blog"],
+        ['@vuepress/back-to-top'],
     ],
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }],
@@ -15,8 +16,19 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/img/logo.png',
+        search: false,
+        sidebar: 'auto',
         nav: [
             { text: 'ニコプロって？', link: '/about/' },
+            {
+                text: 'プログラミング教室',
+                items: [
+                    { text: 'コンセプト・効果・特徴', link: '/programming/merit/' },
+                    { text: 'コース紹介', link: '/programming/course-price/' },
+                    { text: '体験会', link: '/programming/taiken/' },
+                    { text: '入会の流れ', link: '/programming/join/' }
+                ]
+            },
             { text: '教室案内   ', link: '/class/' },
             { text: 'ブログ', link: '/_posts/' },
             { text: 'お問い合わせ', link: '/contact/' },

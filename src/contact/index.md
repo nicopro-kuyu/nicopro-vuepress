@@ -1,3 +1,6 @@
+---
+sidebar: false
+---
 # お問い合わせ
 お問い合わせはこちらからどうぞ！ 2営業日以内にご連絡いたします。
 
@@ -25,6 +28,6 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
         <dt><label>メッセージ</label></dt>
         <dd><textarea name="message" cols="40" rows="10"></textarea></dd>
       </dl>
-      <div class="btn"><button type="submit" class="submit-btn">送信</button></div>
+      <button type="submit" class="btn">送信</button>
     </form>
 
