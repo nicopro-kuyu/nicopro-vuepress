@@ -15,9 +15,6 @@ module.exports = {
         ['link', { href: '/css/style.css', rel: 'stylesheet' }]
     ],
     themeConfig: {
-        logo: '/img/logo.png',
-        search: false,
-        sidebar: 'auto',
         nav: [
             { text: 'ニコプロって？', link: '/about/' },
             {
@@ -33,5 +30,8 @@ module.exports = {
             { text: 'ブログ', link: '/_posts/' },
             { text: 'お問い合わせ', link: '/contact/' },
         ],
+        logo: '/img/logo.png',
+        search: false,
+        sidebar: 'auto',
     },
 }
