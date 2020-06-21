@@ -1,0 +1,216 @@
+body {
+  font-family: "Helvetica", "Arial", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Osaka", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic"!important; 
+}
+
+.btn {
+  font-weight: bold;
+  display: inline-block;
+  padding: 8px 24px;
+  margin: 8px 5px;
+  background-color: #ff8000;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+/***** contactform *****/
+ .form {
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (max-width: 480px) {
+  .form {
+    margin-top: 40px;
+  }
+}
+.form-item {
+  border-top: 1px solid #ddd;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 480px) {
+  .form-item {
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    flex-wrap: wrap;
+  }
+}
+.form-item-flex{
+  display: flex;
+  flex-direction: column;
+}
+.form-item:nth-child(5) {
+  border-bottom: 1px solid #ddd;
+}
+.form-item-label {
+  width: 100%;
+  max-width: 248px;
+  letter-spacing: 0.05em;
+  font-weight: bold;
+  margin-right: 8px
+}
+@media screen and (max-width: 480px) {
+  .form-item-label {
+    max-width: inherit;
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: auto;
+  }
+}
+.form-item-label.istop {
+  margin-top: 8px;
+  margin-bottom: auto;
+}
+@media screen and (max-width: 480px) {
+  .form-item-label.istop {
+    margin-top: 0;
+  }
+}
+.form-item-label-required {
+  border-radius: 6px;
+  margin-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 48px;
+  display: inline-block;
+  text-align: center;
+  background: #ff8000;
+  color: #fff;
+  font-size: 14px;
+}
+.form-item-label-unrequired {
+  border-radius: 6px;
+  margin-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 48px;
+  display: inline-block;
+  text-align: center;
+  background: #BDBDBD;
+  color: #fff;
+  font-size: 14px;
+}
+@media screen and (max-width: 480px) {
+  .form-item-label-required,.form-item-label-unrequired {
+    border-radius: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    width: 32px;
+    font-size: 10px;
+  }
+}
+.form-item-input {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-left: 40px;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 48px;
+  flex: 1;
+  // width: 100%;
+  max-width: 410px;
+  background: #eaedf2;
+  font-size: 16px
+}
+@media screen and (max-width: 480px) {
+  .form-item-input {
+    margin-left: 0;
+    margin-top: 10px;
+    height: 40px;
+    flex: inherit;
+  }
+}
+.form-item-choice {
+  margin-top: 10px;
+  margin-left: 40px;
+  padding-left: 1em;
+  padding-right: 1em;
+  // width: 100%;
+  flex: 1;
+}
+@media screen and (max-width: 480px) {
+  .form-item-choice {
+    margin-left: 0;
+    margin-top: 10px;
+    height: 40px;
+    flex: inherit;
+  }
+}
+.form-item-comment{
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  flex: 1;
+}
+@media screen and (max-width: 480px) {
+  .form-item-comment {
+    margin: 10px 0;
+    height: 40px;
+  }
+}
+.form-item-textarea {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-left: 40px;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 216px;
+  flex: 1;
+  // width: 100%;
+  max-width: 410px;
+  background: #eaedf2;
+  font-size: 16px
+}
+@media screen and (max-width: 480px) {
+  .form-item-textarea {
+    margin-top: 10px;
+    margin-left: 0;
+    height: 200px;
+    flex: inherit;
+  }
+}
+.form-btn {
+  border-radius: 6px;
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  display: block;
+  letter-spacing: 0.05em;
+  background: #ff8000;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+@media screen and (max-width: 480px) {
+  .form-btn {
+    margin-top: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 160px;
+    font-size: 16px;
+  }
+}
+/***** google-map *****/
+.google-map {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+  overflow: hidden;
+}
+.google-map iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
