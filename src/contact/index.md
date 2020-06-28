@@ -55,8 +55,10 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
       <span class="form-item-label-required">必須</span>プライバシーポリシーの同意
     </p>
     <div class="form-item-flex">
-      <p class="form-item-comment">お問い合わせの際は、当教室「プライバシーポリシー」をご確認の上、「同意する」にチェックを入れて、送信ボタンをクリックしてください。</p>
-      <a class="form-item-comment" href="/about/#プライバシーポリシー" target="_blank">「プライバシーポリシー」はこちら</a>
+      <p class="form-item-comment">
+        お問い合わせの際は、当教室「プライバシーポリシー」をご確認の上、「同意する」にチェックを入れて、送信ボタンをクリックしてください。<br>
+        <a href="/about/#プライバシーポリシー" target="_blank">「プライバシーポリシー」はこちら</a>
+      </p>
       <div class="form-item-choice">
         <input type="checkbox" name="accept" value="同意する" required />同意する
       </div>
