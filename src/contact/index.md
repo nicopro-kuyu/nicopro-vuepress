@@ -70,4 +70,3 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
     <button type="submit"  class="form-btn">送信する</button>
   </div>
 </form>
-
