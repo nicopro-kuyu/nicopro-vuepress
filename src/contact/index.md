@@ -8,7 +8,7 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
 
 <a href="http://nav.cx/4chnsB5"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 
-<form class="form" name="contact" method="POST" action="/success.html" data-netlify="true">
+<form class="form" name="contact" method="POST" action="/contact/success" data-netlify="true">
   <input type="hidden" name="form-name" value="contact" />
   <div class="form-item">
     <p class="form-item-label">
@@ -26,7 +26,7 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
     <p class="form-item-label">
       <span class="form-item-label-unrequired">任意</span>電話番号
     </p>
-      <input type="tel" class="form-item-input" name="tel" placeholder="例：090-1234-5678" />
+      <input type="tel" class="form-item-input" name="tel" placeholder="例：09012345678" />
   </div>
   <div class="form-item">
       <p class="form-item-label istop">
@@ -56,7 +56,7 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
     </p>
     <div class="form-item-flex">
       <p class="form-item-comment">お問い合わせの際は、当教室「プライバシーポリシー」をご確認の上、「同意する」にチェックを入れて、送信ボタンをクリックしてください。</p>
-      <a class="form-item-comment" href="https://nicopro.site/privacy" target="_blank">「プライバシーポリシー」はこちら</a>
+      <a class="form-item-comment" href="/about/#プライバシーポリシー" target="_blank">「プライバシーポリシー」はこちら</a>
       <div class="form-item-choice">
         <input type="checkbox" name="accept" value="同意する" required />同意する
       </div>
