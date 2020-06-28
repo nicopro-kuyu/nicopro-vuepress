@@ -7,10 +7,10 @@ actionText: ニコプロって？ →
 actionLink: /about/
 features:
   - title: ここに注目！
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+    details: 「考える・つくる・伝える」を楽しみながら伸ばそう！ニコプロは自分で考える力、つくる力、伝える力を大事にしています。プログラミングを通して、将来を生き抜くために役立つその力を伸ばしていきましょう。
   - title: コース・料金
-    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+    details: ニコプロのプログラミング教室では、プログラミングを楽しく学ぶ「スクラッチコース」「ロボットコース」の2コースをご用意しています。コースを選んで月2回通学することができます。
   - title: 体験会
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    details: ニコプロはプログラミング学習に興味があるお子様とその保護者様向けの体験会を開催しています。プログラミング学習をスタートするにあたって、まずはその楽しさを体験してください。
 footer: Copyright © 2020- nicopro.
 ---
