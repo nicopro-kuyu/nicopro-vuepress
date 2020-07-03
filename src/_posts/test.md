@@ -1,6 +1,6 @@
 ---
 category: お知らせ
-date: 2020-05-02
+date: 2020-07-02
 title: テスト
 vssue-title: テスト
 ---
