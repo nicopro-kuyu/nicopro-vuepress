@@ -1,3 +1,7 @@
+---
+prev: /programming/taiken/
+next: false
+---
 # 入会の流れ
 <img src="/img/join.png" alt="入会の流れ"/>
 

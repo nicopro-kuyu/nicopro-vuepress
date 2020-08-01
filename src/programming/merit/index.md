@@ -1,3 +1,7 @@
+---
+prev: false
+next: /programming/course-price/
+---
 # コンセプト・効果・特徴
 <img src="/img/merit.jpg" alt=”コンセプト・効果・特徴” />
 

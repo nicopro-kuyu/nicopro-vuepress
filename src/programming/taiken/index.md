@@ -1,3 +1,7 @@
+---
+prev: /programming/course-price/
+next: /programming/join/
+---
 # 体験会
 <img src="/img/taiken.jpg" alt=”オプシアミスミで開催したプログラミング体験会の様子” />
 

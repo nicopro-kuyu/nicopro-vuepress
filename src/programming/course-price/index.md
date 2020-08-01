@@ -1,3 +1,7 @@
+---
+prev: /programming/merit/
+next: /programming/taiken/
+---
 # コース紹介
 ## プログラミングを楽しく学べる2コース
 ニコプロのプログラミング教室では、プログラミングを楽しく学ぶ「[**スクラッチコース**](/programming/course-price/#スクラッチコース)」「[**ロボットコース**](/programming/course-price/#ロボットコース)」の2コースをご用意しています。
