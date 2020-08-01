@@ -7,16 +7,7 @@ module.exports = {
         },
     },
     plugins: [
-        ['@vuepress/blog',
-            {
-                directories: [
-                    {
-                        id: 'Index',
-                        dirname: '_posts',
-                        path: '/blog'
-                    }
-                ]
-            }],
+        ['@vuepress/blog'],
         ['@vuepress/back-to-top'],
     ],
     head: [
@@ -27,20 +18,20 @@ module.exports = {
         search: false,
         sidebar: 'auto',
         nav: [
-            { text: 'ニコプロって？', link: '/about' },
+            { text: 'ニコプロって？', link: '/about/' },
             {
                 text: 'プログラミング教室',
                 items: [
-                    { text: 'コンセプト・効果・特徴', link: '/programming/merit' },
-                    { text: 'コース紹介', link: '/programming/course-price' },
-                    { text: '体験会', link: '/programming/taiken' },
-                    { text: '入会の流れ', link: '/programming/join' }
+                    { text: 'コンセプト・効果・特徴', link: '/programming/merit/' },
+                    { text: 'コース紹介', link: '/programming/course-price/' },
+                    { text: '体験会', link: '/programming/taiken/' },
+                    { text: '入会の流れ', link: '/programming/join/' }
                 ]
             },
-            { text: '教室案内   ', link: '/class' },
-            { text: 'ブログ', link: '/blog' },
-            { text: '女性応援！ICTサポート', link: '/ict-support' },
-            { text: 'お問い合わせ', link: '/contact' },
+            { text: '教室案内   ', link: '/class/' },
+            { text: 'ブログ', link: '/blog/' },
+            { text: '女性応援！ICTサポート', link: '/ict-support/' },
+            { text: 'お問い合わせ', link: '/contact/' },
         ],
     },
 }

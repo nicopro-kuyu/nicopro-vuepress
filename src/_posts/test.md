@@ -2,7 +2,9 @@
 category: お知らせ
 date: 2020-07-02
 title: テスト
-vssue-title: テスト
+tags: 
+  - JavaScript
+  - Vue
 ---
 
 This is my first post.
