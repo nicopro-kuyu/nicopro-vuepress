@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.png
+heroImage: /img/top.png
 heroText: ニコプロは鹿児島のICT＆プログラミング教室です。
 tagline: 小中学生向け！Scratch(スクラッチ)やLEGOロボットでICT＆プログラミングを楽しく学ぼう！
 actionText: ニコプロって？ →
@@ -14,3 +14,4 @@ features:
     details: ニコプロはプログラミング学習に興味があるお子様とその保護者様向けの体験会を開催しています。プログラミング学習をスタートするにあたって、まずはその楽しさを体験してください。
 footer: Copyright © 2020- nicopro.
 ---
+<Home />

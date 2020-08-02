@@ -7,11 +7,33 @@ module.exports = {
         },
     },
     plugins: [
-        ['@vuepress/blog'],
+        // ['@vuepress/blog',
+        //     {
+        //         directories: [
+        //             {
+        //                 id: "post",
+        //                 dirname: "_posts",
+        //                 pagination: {
+        //                     lengthPerPage: 10
+        //                 }
+        //             }
+        //         ],
+        //         frontmatters: [
+        //             {
+        //                 id: "category",
+        //                 keys: ["category"],
+        //                 path: "/blog/categories/",
+        //                 layout: "Categories",
+        //                 scopeLayout: "Category"
+        //             }
+        //         ]
+        //     }
+        // ],
         ['@vuepress/back-to-top'],
     ],
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900' }],
     ],
     themeConfig: {
         logo: '/img/logo.png',

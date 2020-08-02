@@ -1,5 +1,7 @@
 # ニコプロとは
+<div>
 <img src="/img/logo.png" alt="ロゴ"/>
+</div>
 
 ## ニコプロは鹿児島のICT&プログラミング教室です
 子どもを対象にパソコン操作や情報モラルなどのICTリテラシーや、プログラミング、ロボットプログラミングを楽しく学べる場です。
@@ -19,7 +21,7 @@ ICTとは、情報（Information）通信（Communication）に関する技術�
 
 ## 講師プロフィール
 ### ニコプロ代表　青木　裕佳（あおき　ゆか）
-
+<br>
 <div align="center">
 <img src="/img/profile.jpg" alt="プロフィール" width="50%"/>
 </div>

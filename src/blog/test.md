@@ -1,7 +1,8 @@
 ---
 type: blog
+permalink: /blog/test/
 category: お知らせ
-date: 2020-07-02
+date: 2020-07-12
 title: テスト
 img: /img/favicon.png
 description: Basic intro to vuepress
