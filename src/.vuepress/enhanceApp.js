@@ -1,6 +1,6 @@
-import Vuetify from '../../node_modules/vuetify'
-import '../../node_modules/vuetify/dist/vuetify.min.css'
-import '../../node_modules/@mdi/font/css/materialdesignicons.css'
+import Vuetify from 'vuetify'
+import 'vuetify/dist/vuetify.min.css'
+import '@mdi/font/css/materialdesignicons.css'
 export default ({
     Vue, // the version of Vue being used in the VuePress app
     options, // the options for the root Vue instance
