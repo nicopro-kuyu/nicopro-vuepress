@@ -1,6 +1,6 @@
 ---
-type: blog
-permalink: /blog/test3/
+type: post
+permalink: /test3/
 category: お知らせ
 date: 2020-07-02
 title: テスト3

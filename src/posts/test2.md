@@ -1,14 +1,14 @@
 ---
-type: blog
-permalink: /blog/test/
+type: post
+permalink: /test2/
 category: お知らせ
-date: 2020-07-12
-title: テスト
+date: 2020-07-07
+title: テスト2
 img: /img/favicon.png
-description: Basic intro to vuepress
+description: Basic intro to vuepress2
 ---
 
-# テスト1
+# テスト2
 
 The content above `more` is the excerpt, which will be displayed in the posts list.
 

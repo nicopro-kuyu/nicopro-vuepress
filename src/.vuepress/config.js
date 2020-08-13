@@ -41,6 +41,7 @@ module.exports = {
         sidebar: 'auto',
         nav: [
             { text: 'ニコプロって？', link: '/about/' },
+            { text: 'お知らせ', link: '/posts/' },
             {
                 text: 'プログラミング教室',
                 items: [
@@ -51,7 +52,6 @@ module.exports = {
                 ]
             },
             { text: '教室案内   ', link: '/class/' },
-            { text: 'ブログ', link: '/blog/' },
             { text: '女性応援！ICTサポート', link: '/ict-support/' },
             { text: 'お問い合わせ', link: '/contact/' },
         ],
