@@ -9,7 +9,7 @@ img: /img/programming.png
 
 # 【保護者必見】小学校プログラミング教育のまとめ
 
-<img src="/img/programming.png"/>
+<img class="post-in-image" src="/img/programming.png"/>
 
 こんにちは！
 
