@@ -11,7 +11,7 @@ img: /img/viscuit-use/viscuit.jpg
 
 <br>
 
-<img src="/img/viscuit-use/viscuit.jpg"/>
+<img class="post-in-image" src="/img/viscuit-use/viscuit.jpg"/>
 
 <br>
 こんにちは！
