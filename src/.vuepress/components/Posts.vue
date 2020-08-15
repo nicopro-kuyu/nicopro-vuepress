@@ -6,12 +6,12 @@
           <v-card min-width="300">
             <div class="post-card">
               <v-row justify="center">
-                <v-col cols="2">
+                <v-col cols="3">
                   <div class="post-image">
                     <img :src="post.frontmatter.img" />
                   </div>
                 </v-col>
-                <v-col cols="10">
+                <v-col cols="9">
                   <div class="post-info">
                     <span class="post-date">{{ post.frontmatter.date | moment }}</span>
                     <span class="post-category">{{ post.frontmatter.category }}</span>

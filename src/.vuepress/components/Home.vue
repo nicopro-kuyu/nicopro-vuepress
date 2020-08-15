@@ -65,12 +65,13 @@ export default {
     },
   },
   mounted: function () {
-    // typeがpostのmdを日付の降順で取得する
+    // typeがpostのmdを日付の降順で取得し、5ページ抽出
     this.posts = this.$site.pages
       .filter((page) => page.frontmatter.type == "post")
       .sort(
         (a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
-      );
+      )
+      .slice(0, 4);
   },
 };
 </script>
