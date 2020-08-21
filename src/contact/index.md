@@ -4,7 +4,11 @@ sidebar: false
 # お問い合わせ
 お問い合わせはこちらからどうぞ！ 2営業日以内にご連絡いたします。
 
+<br>
+
 LINEでもメッセージのやり取り可能です。 お気軽にご連絡ください。
+
+<br>
 
 <a href="http://nav.cx/4chnsB5"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 
