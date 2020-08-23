@@ -1,13 +1,19 @@
 ---
 type: post
-permalink: /kigyoka-hojokin-3/
+permalink: /:slug/
 category: 起業ノート
 date: 2018-09-25
+dateF: 2018/09/25
 title: 起業家スタートアップ支援補助金交付までの記録【第3話】申込書類提出
 img: /img/起業家スタートアップ支援補助金/03_申込書類提出.png
 ---
 
-# 起業家スタートアップ支援補助金交付までの記録【第3話】申込書類提出
+# {{ $frontmatter.title }}
+
+<div>
+<span class="post-date">{{ $frontmatter.dateF}}</span>
+<span class="post-category">{{ $frontmatter.category }}</span>
+</div>
 
 <img class="post-in-image" src="/img/起業家スタートアップ支援補助金/03_申込書類提出.png"/>
 
@@ -33,7 +39,13 @@ img: /img/起業家スタートアップ支援補助金/03_申込書類提出
 <br>
 
 [【第1話】はじまり](/kigyoka-hojokin-1/)  
-[【第2話】申込決意](/kigyoka-hojokin-2/)
+[【第2話】申込決意](/kigyoka-hojokin-2/)  
+[【第3話】申込書類提出](/kigyoka-hojokin-3/)  
+[【第4話】申込書類提出](/kigyoka-hojokin-4/)  
+[【第5話】初回打ち合わせ](/kigyoka-hojokin-5/)  
+[【第6話】現地調査](/kigyoka-hojokin-6/)  
+[【第7話】実績報告書提出](/kigyoka-hojokin-7/)  
+[【第8話（完）】補助金交付](/kigyoka-hojokin-8/)  
 
 <br>
 :::

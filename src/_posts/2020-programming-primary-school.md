@@ -1,13 +1,19 @@
 ---
 type: post
-permalink: /2020-programming-primary-school/
+permalink: /:slug/
 category: ICT教育
 date: 2020-04-01
+dateF: 2020/04/01
 title: 【保護者必見】小学校プログラミング教育のまとめ
 img: /img/programming.png
 ---
 
-# 【保護者必見】小学校プログラミング教育のまとめ
+# {{ $frontmatter.title }}
+
+<div>
+<span class="post-date">{{ $frontmatter.dateF}}</span>
+<span class="post-category">{{ $frontmatter.category }}</span>
+</div>
 
 <img class="post-in-image" src="/img/programming.png"/>
 

@@ -1,15 +1,19 @@
 ---
 type: post
-permalink: /viscuit-use/
+permalink: /:slug/
 category: プログラミング
 date: 2020-05-08
+dateF: 2020/05/08
 title: Viscuit（ビスケット）で簡単プログラミング！基本の使い方
 img: /img/viscuit-use/viscuit.jpg
 ---
 
-# Viscuit（ビスケット）で簡単プログラミング！基本の使い方
+# {{ $frontmatter.title }}
 
-<br>
+<div>
+<span class="post-date">{{ $frontmatter.dateF}}</span>
+<span class="post-category">{{ $frontmatter.category }}</span>
+</div>
 
 <img class="post-in-image" src="/img/viscuit-use/viscuit.jpg"/>
 

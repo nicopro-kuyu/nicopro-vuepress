@@ -1,13 +1,19 @@
 ---
 type: post
-permalink: /kigyoka-hojokin-1/
+permalink: /:slug/
 category: 起業ノート
 date: 2018-07-16
+dateF: 2018/07/16
 title: 起業家スタートアップ支援補助金交付までの記録【第1話】はじまり
 img: /img/起業家スタートアップ支援補助金/01_はじまり.png
 ---
 
-# 起業家スタートアップ支援補助金交付までの記録【第1話】はじまり
+# {{ $frontmatter.title }}
+
+<div>
+<span class="post-date">{{ $frontmatter.dateF}}</span>
+<span class="post-category">{{ $frontmatter.category }}</span>
+</div>
 
 <img class="post-in-image" src="/img/起業家スタートアップ支援補助金/01_はじまり.png"/>
 
@@ -100,3 +106,18 @@ img: /img/起業家スタートアップ支援補助金/01_はじまり.png
 とはいうものの、半年後、私はフランチャイズに頼らず起業することを決めていました。
 
 次回へ続きます。
+
+::: warning 起業家スタートアップ支援補助金交付までの記録　記事一覧
+<br>
+
+[【第1話】はじまり](/kigyoka-hojokin-1/)  
+[【第2話】申込決意](/kigyoka-hojokin-2/)  
+[【第3話】申込書類提出](/kigyoka-hojokin-3/)  
+[【第4話】申込書類提出](/kigyoka-hojokin-4/)  
+[【第5話】初回打ち合わせ](/kigyoka-hojokin-5/)  
+[【第6話】現地調査](/kigyoka-hojokin-6/)  
+[【第7話】実績報告書提出](/kigyoka-hojokin-7/)  
+[【第8話（完）】補助金交付](/kigyoka-hojokin-8/)  
+
+<br>
+:::
