@@ -23,7 +23,6 @@ img: /img/kigyoka-hojokin/08.png
 
 <br>
 
-
 起業家スタートアップ支援補助金交付までの記録、第八話です。
 
 <br>
