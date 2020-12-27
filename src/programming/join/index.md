@@ -44,4 +44,6 @@ next: false
 
 <br>
 
-<a href="/pdf/kaiin-kiyaku_20200419.pdf" target="_blank" class="btn">会員規約はこちら</a>
+<a href="/pdf/kaiin-kiyaku.pdf" target="_blank" class="btn">会員規約はこちら</a>
+
+<a href="/pdf/calender.pdf" target="_blank" class="btn">年間授業カレンダーはこちら</a>
