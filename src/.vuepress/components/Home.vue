@@ -8,17 +8,24 @@
             <v-card min-width="300">
               <div class="post-card">
                 <v-row justify="center">
-                  <v-col cols="2">
+                  <v-col cols="3">
                     <div class="post-image">
                       <img :src="post.frontmatter.img" />
                     </div>
                   </v-col>
-                  <v-col cols="10">
+                  <v-col cols="9">
                     <div class="post-info">
-                      <span class="post-date">{{ post.frontmatter.date | moment }}</span>
-                      <span class="post-category">{{ post.frontmatter.category }}</span>
+                      <span class="post-date">{{
+                        post.frontmatter.date | moment
+                      }}</span>
+                      <span class="post-category">{{
+                        post.frontmatter.category
+                      }}</span>
                     </div>
-                    <v-card-title class="post-title" v-text="post.title"></v-card-title>
+                    <v-card-title
+                      class="post-title"
+                      v-text="post.title"
+                    ></v-card-title>
                   </v-col>
                 </v-row>
               </div>
@@ -40,9 +47,15 @@
           </v-btn>
         </div>
         <div class="banner">
-          <div class="text-darken-1 mb-2">ニコプロは鹿児島キッズプログラミングコンテストを応援しています！</div>
+          <div class="text-darken-1 mb-2">
+            ニコプロは鹿児島キッズプログラミングコンテストを応援しています！
+          </div>
           <a href="https://sites.google.com/view/kids-prog/" target="_blank">
-            <img class="banner-image" src="/img/kids_kago_banner.png" alt="鹿児島キッズプログラミングコンテスト2020" />
+            <img
+              class="banner-image"
+              src="/img/kids_kago_banner.png"
+              alt="鹿児島キッズプログラミングコンテスト2020"
+            />
           </a>
         </div>
       </div>

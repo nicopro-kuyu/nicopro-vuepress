@@ -47,7 +47,7 @@ module.exports = {
                 items: [
                     { text: 'コンセプト・効果・特徴', link: '/programming/merit/' },
                     { text: 'コース紹介', link: '/programming/course-price/' },
-                    { text: '体験会', link: '/programming/taiken/' },
+                    { text: '無料体験会', link: '/programming/taiken/' },
                     { text: '入会の流れ', link: '/programming/join/' }
                 ]
             },
