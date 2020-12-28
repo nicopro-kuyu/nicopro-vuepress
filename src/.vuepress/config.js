@@ -30,6 +30,10 @@ module.exports = {
         //     }
         // ],
         ['@vuepress/back-to-top'],
+        [
+            '@vuepress/plugin-google-analytics',
+            { ga: 'UA-92408090-2' },
+        ],
     ],
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }],
