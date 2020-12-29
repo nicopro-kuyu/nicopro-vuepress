@@ -13,10 +13,17 @@
                 </v-col>
                 <v-col cols="9">
                   <div class="post-info">
-                    <span class="post-date">{{ post.frontmatter.date | moment }}</span>
-                    <span class="post-category">{{ post.frontmatter.category }}</span>
+                    <span class="post-date">{{
+                      post.frontmatter.date | moment
+                    }}</span>
+                    <span class="post-category">{{
+                      post.frontmatter.category
+                    }}</span>
                   </div>
-                  <v-card-title class="post-title" v-text="post.title"></v-card-title>
+                  <v-card-title
+                    class="post-title"
+                    v-text="post.title"
+                  ></v-card-title>
                 </v-col>
               </v-row>
             </div>
@@ -24,7 +31,7 @@
         </router-link>
       </v-col>
     </v-row>
-    <div class="pt-2">
+    <div>
       <v-pagination
         v-model="page"
         :length="length"
@@ -60,6 +67,7 @@ export default {
         this.pageSize * (pageNumber - 1),
         this.pageSize * pageNumber
       );
+      window.scrollTo(0, 0);
     },
   },
   mounted: function () {

@@ -7,7 +7,7 @@ next: /programming/taiken/
 
 <br>
 
-ニコプロのプログラミング教室では、プログラミングを楽しく学ぶ「[**スクラッチコース**](/programming/course-price/#スクラッチコース)」「[**ロボットコース**](/programming/course-price/#ロボットコース)」の2コースをご用意しています。
+ニコプロのプログラミング教室では、プログラミングを楽しく学ぶ「[**スクラッチコース**](/programming/course-price/#スクラッチコース)」「[**ロボットコース**](/programming/course-price/#ロボットコース)」の2コースをご用意しています。
 
 <br>
 
@@ -21,13 +21,16 @@ next: /programming/taiken/
 
 <div>
 <a href="/programming/course-price/#スクラッチコース" class="btn">スクラッチコース</a>
-<a href="/programming/course-price/#ロボットコース" class="btn">ロボットコース</a>
-<a href="/programming/course-price/#料金・スケジュール" class="btn">料金・スケジュール</a>
-<a href="/programming/course-price/#その他にも！" class="btn">その他にも！</a>
+<a href="/programming/course-price/#ロボットコース" class="btn">ロボットコース</a>
+<a href="/programming/course-price/#料金・スケジュール" class="btn">料金・スケジュール</a>
+<a href="/programming/course-price/#その他にも" class="btn">その他にも！</a>
 </div>
 
-## スクラッチコース ※オンライン授業対応可！
+## スクラッチコース
 ### スクラッチでアニメやゲームをつくってプログラミングの基本を楽しく学ぼう！
+<br>
+
+<font color="#ff8000">**※オンライン授業対応可！**</font>
 
 <br>
 
@@ -40,8 +43,6 @@ Scratch（スクラッチ）はマサチューセッツ工科大学メディア�
 <br>
 
 初めての方でも楽しくプログラミングの基本を学ぶことができます。
-
-**<font color="#ff8000">※オンライン授業の対応可能です！</font>**
 
 <br>
 
