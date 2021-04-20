@@ -69,7 +69,7 @@ next: /programming/join/
 ### 場所
 <br>
   
-[**ニコプロ　天文館教室**](/class) もしくは <font color="#ff8000">オンライン</font>
+[**ニコプロ　天文館教室**](/class)
 
 ### 費用
 <br>
@@ -80,10 +80,6 @@ next: /programming/join/
 <br>
 	
 なし
-
-<br>
-
-**<font color="#ff8000">※オンライン参加の場合はWebカメラ付きのパソコンをご準備ください。</font>**
 
 ## 当日の流れ
 
