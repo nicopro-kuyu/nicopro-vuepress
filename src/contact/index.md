@@ -68,7 +68,7 @@ LINEでもメッセージのやり取り可能です。 お気軽にご連絡く
       </div>
     </div>
   </div>
-  <div class="form-item" align="center">
+  <div>
     <p >※今一度メールアドレスや電話番号のご確認をお願いいたします。</p>
     <div data-netlify-recaptcha="true"></div>
     <button type="submit"  class="form-btn">送信する</button>
