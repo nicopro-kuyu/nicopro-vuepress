@@ -5,7 +5,7 @@ category: 教室コラム
 date: 2021-04-25
 dateF: 2021/04/25
 title: ジュニア・プログラミング検定Gold級合格！！
-img: /img/certification_scratch_gold.JPG
+img: /img/certification_scratch_gold.jpg
 ---
 
 # {{ $frontmatter.title }}
@@ -15,7 +15,7 @@ img: /img/certification_scratch_gold.JPG
 <span class="post-category">{{ $frontmatter.category }}</span>
 </div>
 
-<img class="post-in-image" src="/img/certification_scratch_gold.JPG"/>
+<img class="post-in-image" src="/img/certification_scratch_gold.jpg"/>
 
 こんにちは！
 
