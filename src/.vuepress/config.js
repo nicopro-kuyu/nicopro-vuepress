@@ -1,6 +1,6 @@
 module.exports = {
     title: '鹿児島のICT＆プログラミング教室 ニコプロ',
-    description: '小中学生向け！鹿児島のICT＆プログラミング教室です。パソコンとScratch（スクラッチ）を使ってICT＆プログラミングを楽しく学ぼう！',
+    description: '子ども(小学生中学生)向け！鹿児島のICT＆プログラミング教室です。パソコンとScratch(スクラッチ)を使ってICT＆プログラミングを楽しく学ぼう！',
     locales: {
         '/': {
             lang: 'ja-JP',

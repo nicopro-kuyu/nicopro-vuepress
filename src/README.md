@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/top.png
 heroText: ニコプロは鹿児島のICT＆プログラミング教室です。
-tagline: 小学生中学生向け！パソコンとScratch(スクラッチ)を使ってICT＆プログラミングを楽しく学ぼう！
+tagline: 子ども(小学生中学生)向け！パソコンとScratch(スクラッチ)を使ってICT＆プログラミングを楽しく学ぼう！
 actionText: ニコプロって？ →
 actionLink: /about/
 features:
