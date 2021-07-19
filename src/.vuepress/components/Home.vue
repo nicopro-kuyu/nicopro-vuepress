@@ -50,7 +50,7 @@
           <div class="text-darken-1 mb-2">
             ニコプロは鹿児島キッズプログラミングコンテストを応援しています！
           </div>
-          <a href="https://sites.google.com/view/kids-prog/" target="_blank">
+          <a href="https://kpc.kagoshima-kids.com/" target="_blank">
             <img
               class="banner-image"
               src="/img/kids_kago_banner.png"
