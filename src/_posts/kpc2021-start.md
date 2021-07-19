@@ -3,7 +3,7 @@ type: post
 permalink: /:slug/
 category: 鹿児島キッズプロコン
 date: 2021-07-01
-dateF: 2020/07/01
+dateF: 2021/07/01
 title: 第3回鹿児島キッズプログラミングコンテスト作品募集開始！
 img: /img/kpc2021-1.png
 ---
