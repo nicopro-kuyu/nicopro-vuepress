@@ -54,7 +54,7 @@
             <img
               class="banner-image"
               src="/img/kids_kago_banner.png"
-              alt="鹿児島キッズプログラミングコンテスト2020"
+              alt="鹿児島キッズプログラミングコンテスト"
             />
           </a>
         </div>
