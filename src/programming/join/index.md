@@ -52,4 +52,4 @@ next: false
 
 <a href="/pdf/kaiin-kiyaku.pdf" target="_blank" class="btn">会員規約はこちら</a>
 
-<a href="/pdf/calender.pdf" target="_blank" class="btn">年間授業カレンダーはこちら</a>
+<a href="/pdf/calendar.pdf" target="_blank" class="btn">年間授業カレンダーはこちら</a>
