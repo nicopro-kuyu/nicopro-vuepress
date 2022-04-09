@@ -15,7 +15,7 @@
     "@mdi/font": "^5.4.55",
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "@vuepress/plugin-google-analytics": "^1.7.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "vuepress": "^1.5.2",
     "vuetify": "^2.3.7"
   },
