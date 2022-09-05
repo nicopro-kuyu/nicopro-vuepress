@@ -56,7 +56,7 @@ module.exports = {
                 ]
             },
             { text: '教室案内   ', link: '/class/' },
-            { text: '女性応援！ICTサポート', link: '/ict-support/' },
+            // { text: '女性応援！ICTサポート', link: '/ict-support/' },
             { text: 'お問い合わせ', link: '/contact/' },
         ],
     },
