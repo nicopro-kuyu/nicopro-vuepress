@@ -32,8 +32,7 @@ module.exports = {
         ['@vuepress/back-to-top'],
         [
             '@vuepress/plugin-google-analytics',
-            // { ga: 'UA-92408090-2' },
-            { ga: 'G-2LKP1GKDMG' },
+            { ga: 'UA-92408090-2' },
         ],
     ],
     head: [
