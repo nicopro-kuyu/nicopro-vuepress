@@ -45,7 +45,7 @@ module.exports = {
         sidebar: 'auto',
         nav: [
             { text: 'ニコプロって？', link: '/about/' },
-            { text: 'お知らせ', link: '/posts/' },
+            // { text: 'お知らせ', link: '/posts/' },
             {
                 text: 'プログラミング教室',
                 items: [

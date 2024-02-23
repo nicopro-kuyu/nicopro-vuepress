@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-container>
-      <h2>最新のお知らせ</h2>
+      <!-- <h2>最新のお知らせ</h2>
       <v-row dense class="px-2 pb-2 pt-4">
         <v-col v-for="post in posts" :key="post.index" cols="12">
           <router-link :to="post.path">
@@ -38,7 +38,7 @@
           お知らせ一覧
           <v-icon dark right>mdi-chevron-right</v-icon>
         </v-btn>
-      </div>
+      </div> -->
       <div class="text-center">
         <div class="py-8">
           <v-btn x-large color="yellow darken-4" dark to="/contact">
