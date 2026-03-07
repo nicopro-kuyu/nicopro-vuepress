@@ -19,5 +19,8 @@
     "vuepress": "^1.5.2",
     "vuetify": "^2.6.10"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": "16.x"
+  }
 }
