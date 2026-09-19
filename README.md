@@ -1,2 +1,3 @@
 # nicopro-vuepress
-ニコプロHPのソースです
+ニコプロHPの旧ソース(vuepress版)です
+新ソースはnicopro-vitepress
